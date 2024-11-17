@@ -1,1 +1,1 @@
-# Memory-Maze is a fun and engaging memory matching game built with HTML, CSS, and JavaScript. Test your memory skills by flipping cards and matching pairs, all while enjoying a sleek and interactive design. Perfect for quick challenges or improving your concentration, this game promises hours of fun and mental exercise!
+# Memory-Maze 
